@@ -1,5 +1,5 @@
-# SSL-Nginx-CentOS-7
-How To Create a Self-Signed SSL Certificate for Nginx on CentOS 7
+# How To Create a Self-Signed SSL Certificate for Nginx on CentOS 7 
+
 Introduction
 TLS, or transport layer security, and its predecessor SSL, which stands for secure sockets layer, are web protocols used to wrap normal traffic in a protected, encrypted wrapper.
 
